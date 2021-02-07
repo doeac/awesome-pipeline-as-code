@@ -1,4 +1,4 @@
-# awesome-pipeline-as-code
+# Awesome Pipeline as Code
 
 A curated list of awesome codified cicd pipelines and reuseable templates
 
