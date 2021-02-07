@@ -6,6 +6,7 @@
     <img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
   </a>
   <br>
+  <br>
 </div>
 
 A curated list of awesome codified cicd pipelines and reuseable templates to help the next person creating a pipeline a little bit more :)
