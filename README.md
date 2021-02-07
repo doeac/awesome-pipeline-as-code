@@ -1,6 +1,6 @@
 # Awesome Pipeline as Code
 
-A curated list of awesome codified cicd pipelines and reuseable templates
+A curated list of awesome codified cicd pipelines and reuseable templates to help the next person creating a pipeline a little bit more :)
 
 ## Github Action Workflows
 
