@@ -13,7 +13,7 @@ A curated list of awesome codified cicd pipelines and reuseable templates
 
 ## Azure Pipelines
 
-- [Common Pipeline Templates](https://github.com/AleksaC/azure-pipelines-templates) - Collection of Azure Pipelines templates for jobs and tasks I commonly use in my projects
+- [Common Pipeline Templates](https://github.com/AleksaC/azure-pipelines-templates) - Collection of Azure Pipelines templates for jobs and tasks used in AleksaC projects
 - [Common Pipeline Tasks for NordCloud (AWS focus)](https://github.com/nordcloud/azure-pipelines-templates) - Templates to be reused in our Azure Pipelines projects
 - [Xamarin Pipeline Demo](https://github.com/jmegner/XamarinPipelineDemo) - Demo and explanation on how to do several common tasks for Xamarin.Forms Android in an Azure DevOps pipeline on a Microsoft-hosted agent.
 - [Dynamics 365 Customer Engagement](https://github.com/microsoft-d365-ce-pfe-devops/D365-CE-Pipelines) - Collection of YAML files for building Azure DevOps pipelines for Dynamics 365 for Customer Engagement
