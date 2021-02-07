@@ -1,6 +1,7 @@
-# Awesome Pipeline as Code
 
 <div align="center">
+  <h1> Awesome Pipeline as Code </h1>
+
   <a href="https://awesome.re">
     <img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
   </a>
